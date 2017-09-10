@@ -24,11 +24,11 @@ var destructivelyAddElementToEndOfArray = function (array,element){
 var accessElementInArray = function (array,index){
   return array[index];
 }
-/*
+
 var destructivelyRemoveElementFromBeginningOfArray = function (array){
   return array.shift();
 }
-
+/*
 var removeElementFromBeginningOfArray = function (array){
   var newArray = array.slice(1);
 }
